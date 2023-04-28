@@ -1,0 +1,7 @@
+fastapi[all]
+diffusers
+transformers
+accelerate
+safetensors
+omegaconf
+pytorch_lightning

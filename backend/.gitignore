@@ -1,0 +1,5 @@
+myvenv
+outputs
+models
+__pycache__
+vae
